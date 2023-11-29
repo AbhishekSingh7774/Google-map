@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     st.title('Streamlit App with Embedded My Google Map')
-    st.write('Here is an example of embedded LDS Londonderry Map:')
+    st.write('Edmonton data property dataset Embedd stakes:')
 
     # Embedding Google Map using HTML iframe
     st.markdown("""
